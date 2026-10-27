@@ -1,0 +1,6 @@
+{
+  "name": "Bentley — Beyond The Collection",
+  "description": "An exclusive showcase for Bentley's Beyond The Collection luxury fragrances, featuring smooth orbital scroll choreography, fragrance discovery, notes profiles, bottle artistry, and atelier concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
